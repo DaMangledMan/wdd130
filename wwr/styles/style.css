@@ -49,7 +49,7 @@ body {
 }
 #background {
     height: 725px;
-    background-color: #da9122; 
+    background-color: #da902231; 
     grid-column: 1/11;
     grid-row: 4/9;
 }
