@@ -2,6 +2,8 @@
 /* Activity 1 styles */
 .content1 {
   /* This is the parent of the activity 1 boxes. */
+  height: 400px;
+  width: 500px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
@@ -33,6 +35,8 @@
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
+  height: 400px;
+  width: 500px;
   display: grid;
   grid-template-columns: 50px 50px 50px 50px 50px;
   grid-template-rows: 50px 50px 50px 50px 50px;
@@ -68,6 +72,8 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
+  height: 400px;
+  width: 500px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 40px;
@@ -98,6 +104,7 @@
 .content4 {
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
+  width: 500px;
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
@@ -129,6 +136,7 @@
 .content5 {
   /* This is the parent of the activity 5 boxes. */
   height: 400px;
+  width: 500px;
   font-size: .7em;
 }
 .red5 { 
