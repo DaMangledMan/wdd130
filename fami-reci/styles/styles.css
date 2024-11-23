@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #3a3a3a   ;
+    --secondary-color: #c58826 ;
+    --accent1-color: #7d4d01;
+    --accent2-color: #d84629c5;
+    --accent3-color: #e3e3e3;
+    --accent4-color: black;
+
+    --heading-font: "IM Fell French Canon SC";
+    --paragraph-font: Lato, Helvetica, sans-serif;
+}
+img {
+  width: 300px;
+}
+body {
+    background-color: var(--primary-color);
+}
